@@ -1,0 +1,14 @@
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\bin\Debug\DayZ Radar.exe.config
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\bin\Debug\DayZ Radar.exe
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\bin\Debug\DayZ Radar.pdb
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\bin\Debug\DayZ Radar.xml
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ_Radar.Form1.resources
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ_Radar.Resources.resources
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.vbproj.GenerateResource.Cache
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.exe
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.xml
+c:\users\crank\documents\visual studio 2013\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.pdb
+F:\BackUp\Projects\DayZ Radar\DayZ Radar\bin\Debug\DayZ Radar.exe.config
+F:\BackUp\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.exe
+F:\BackUp\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.xml
+F:\BackUp\Projects\DayZ Radar\DayZ Radar\obj\Debug\DayZ Radar.pdb
